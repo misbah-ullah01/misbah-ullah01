@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm [MISBAH ULLAH]  
+# 👋 Hello, World! I'm MISBAH ULLAH  
 
 Welcome to my GitHub profile! I'm a **passionate Computer Science student** currently exploring the realms of coding, technology, and innovation. My journey started with a spark of curiosity and has now transformed into a mission to build impactful solutions and contribute to the tech community.  
 
