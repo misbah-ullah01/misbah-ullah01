@@ -52,10 +52,3 @@ I'm a Computer Science undergraduate passionate about transforming ideas into re
 
 <br /><br /><br /><br /><br />
 
-### Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/misbahullah">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee" />
-  </a>
-</p>
