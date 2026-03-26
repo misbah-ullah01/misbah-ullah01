@@ -1,54 +1,73 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Misbah Ullah
-====================================================================================================================================
+<h1 align="center">Hey 👋What's Up?</h1>
 
-Future Computer Scientist
--------------------------
+###
 
-I'm a Computer Science undergraduate passionate about transforming ideas into reality through code. From exploring challenging algorithms to building impactful solutions, I thrive on solving problems and learning new technologies. 🌱 Currently Exploring: Advanced problem-solving techniques in Python and C++ Creative coding approaches and innovative tools ✨ What Drives Me: A desire to turn imagination into meaningful solutions My belief that coding is an art that can shape the future 🚀 "Anything is possible with a passion for innovation."
-
-* 🌍  I'm based in Peshawar, KP, Pakistan
-* 🖥️  See my portfolio at [Github](http://github.com/misbah-ullah01)
-* ✉️  You can contact me at [misbahu094@gmail.com](mailto:misbahu094@gmail.com)
-* 🧠  I'm learning C++, Python, HTML, and CSS
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/misbah-ullah01" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/misbah-ullah01/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/misbah-ullah01"><img src="https://github-readme-stats.vercel.app/api?username=misbah-ullah01&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="misbah-ullah01's GitHub stats" /></a>
-
-<a href="http://www.github.com/misbah-ullah01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=misbah-ullah01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/misbah-ullah01"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=misbah-ullah01&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/misbah-ullah01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbah-ullah01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/misbah-ullah01/GIKI-1st-Semester-Projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=misbah-ullah01&repo=GIKI-1st-Semester-Projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/misbah-ullah01/expense-tracker" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=misbah-ullah01&repo=expense-tracker&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center">
-  <a href="https://github.com/misbah-ullah01/Vigenere-Cypher" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=misbah-ullah01&repo=Vigenere-Cypher&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/misbah-ullah01/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://github.com/misbah-ullah01/luhn-algorithm-card-validator" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=misbah-ullah01&repo=luhn-algorithm-card-validator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  <a href="https://dev.to/misbah_ullah" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
   </a>
 </div>
 
-<br /><br /><br /><br /><br />
+###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/misbah-ullah01/misbah-ullah01/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/misbah-ullah01/misbah-ullah01/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/misbah-ullah01/misbah-ullah01/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <!-- <img src="https://cdn.simpleicons.org/solidity/363636" height="60" alt="solidity logo"  />
+  <img width="12" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="60" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="60" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="60" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/latex/008080" height="60" alt="latex logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="60" alt="godot logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=misbah-ullah01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=misbah-ullah01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
