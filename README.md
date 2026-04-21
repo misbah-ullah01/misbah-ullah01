@@ -86,6 +86,12 @@ https://profile-readme-generator.com -->
   <img src="https://streak-stats.demolab.com/?user=misbah-ullah01&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </div>
 
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer"/>
+</p>
+
 ###
 
 
