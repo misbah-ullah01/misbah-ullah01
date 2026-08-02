@@ -1,4 +1,6 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<img width="380" height="380" alt="securityknightocat" src="https://github.com/user-attachments/assets/d3e7fefb-8f5e-4df5-9da9-5e08a02ec20b" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="500" alt="animated hello">
+
 
 ###
 
