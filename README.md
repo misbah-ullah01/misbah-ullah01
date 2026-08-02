@@ -78,8 +78,8 @@ https://profile-readme-generator.com -->
 ###
 
 <div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=misbah-ullah01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbah-ullah01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook,html,javascript" alt="Top Languages" />
+ <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=misbah-ullah01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbah-ullah01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook,html,javascript" alt="Top Languages" /> -->
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=misbah-ullah01&locale=en&mode=daily&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="streak graph"  />
