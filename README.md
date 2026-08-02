@@ -1,4 +1,4 @@
-<img width="350" height="350" alt="securityknightocat" src="https://github.com/user-attachments/assets/d3e7fefb-8f5e-4df5-9da9-5e08a02ec20b" />
+<img width="350" height="350" alt="Securityknightocat" src="https://github.com/user-attachments/assets/ca3fb3f6-9d90-4fea-bdd3-f727fb90bb13" />
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="400" alt="animated hello">
 
 
