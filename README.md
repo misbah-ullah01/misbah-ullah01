@@ -1,6 +1,7 @@
 <!-- <img width="320" height="320" alt="Securityknightocat" src="https://github.com/user-attachments/assets/ca3fb3f6-9d90-4fea-bdd3-f727fb90bb13" /> -->
+<div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="800" alt="animated hello">
-
+</div>
 ###
 
 <div align="center">
