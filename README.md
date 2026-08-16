@@ -131,6 +131,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=HTB&message=Getting%20Started%20Module%20Complete&color=9FEF00&style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB progress" />
+  <img src="https://img.shields.io/static/v1?label=HTB&message=Network%20Enumeration%20with%20Nmap%20Complete&color=9FEF00&style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB Nmap module complete" />
   <br/><br/>
   <img src="https://img.shields.io/static/v1?label=THM&message=Intro%20Module%20Complete&color=212C42&style=for-the-badge&logo=tryhackme&logoColor=red" alt="THM Intro complete" />
   <img src="https://img.shields.io/static/v1?label=THM&message=Cyber%20Security%20101%20In%20Progress&color=212C42&style=for-the-badge&logo=tryhackme&logoColor=red" alt="THM CS101 in progress" />
@@ -153,6 +154,28 @@
   - Privilege escalation primer
   - Navigating the HTB platform, getting help, and common pitfalls
   - Completed first two boxes (one guided, one unguided)
+
+  </div>
+  </details>
+
+  <details>
+    <summary><b>✅ Hack The Box — Network Enumeration with Nmap</b></summary>
+    <br/>
+    <div align="left">
+
+  `Tier 1` · `Easy` · `~7 hours` · `10 Cubes` · `12 Sections (8 Interactive)`
+
+  Covers the fundamentals of using Nmap for effective network enumeration — an essential skill for both offensive and defensive security practitioners.
+
+  - Overview of Nmap
+  - Host discovery and port scanning
+  - Saving scan results
+  - Service enumeration
+  - Using the Nmap Scripting Engine (NSE)
+  - Firewall and IDS/IPS evasion techniques
+  - Completed all interactive exercises and the three hands-on labs (Easy, Medium, Hard) on Firewall/IDS/IPS evasion
+
+  Relevant to `CREST CPSA/CRT`, `CREST CCT APP`, and `CREST CCT INF` exam prep.
 
   </div>
   </details>
